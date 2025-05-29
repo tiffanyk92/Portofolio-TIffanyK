@@ -56,7 +56,7 @@ header {
     /* Mengatur tinggi gambar */
     height: 115vh; 
     /* Mengatur lebar gambar */
-    background: url(gambar/photo.jpg); 
+    background: url('photo.jpg') no-repeat;
     /* Menambahkan gambar background */
     background-size: cover; 
     /* Mengatur size gambar */
